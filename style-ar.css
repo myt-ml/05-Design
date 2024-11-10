@@ -199,7 +199,7 @@ img {
 }
 
 /* CHAIRS */
-.chair-box {
+.furniture-item-box {
   padding: 24px;
 }
 
@@ -207,26 +207,26 @@ h3 {
   margin-bottom: 24px;
 }
 
-.chair-details {
+.furniture-details {
   list-style: none;
   margin-bottom: 24px;
 }
 
-.chair-details li {
+.furniture-details li {
   display: flex;
   align-items: center;
   gap: 12px;
   margin-bottom: 24px;
 }
 
-.chair-details li:last-child {
+.furniture-details li:last-child {
   margin-bottom: 0;
 }
 
 .chair-icon {
 }
 
-.chair-price {
+.furniture-price {
   display: flex;
   justify-content: space-between;
 }
